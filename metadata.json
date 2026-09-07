@@ -1,0 +1,6 @@
+{
+  "name": "AHESAN SHOP",
+  "description": "Modern, professional e-commerce platform for Bangladesh featuring bKash & Cash on Delivery payments, product catalog, cart, customer account, order tracking, admin dashboard, and WhatsApp Customer Care.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
